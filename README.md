@@ -1,0 +1,2 @@
+# task
+Solution for Semantive
