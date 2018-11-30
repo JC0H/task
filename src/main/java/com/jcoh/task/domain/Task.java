@@ -20,5 +20,5 @@ public class Task {
 
     private String name;
     private String color;
-    private SizeType size;
+    private String size;
 }
